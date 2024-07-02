@@ -1,0 +1,1 @@
+this script can monitor website every 1 minutes, if some web down, then it will send notification to group and do restart some importan service which caused the web down like postgree, nginx, and php , or etc
